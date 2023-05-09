@@ -1,0 +1,14 @@
+{
+  "employeeData": [
+    {
+    "First Name" : "Tatsat",
+    "Last Name" : "Patel",
+    "Email" : "tatsat@gmail.com ",
+    "Depatrment" : "frontend",
+    "Address" : "1255477",
+    "Contact Number" : "254512",
+    "Description" : "124154278 ",
+    "Status" : "active"
+    }
+  ]
+}
